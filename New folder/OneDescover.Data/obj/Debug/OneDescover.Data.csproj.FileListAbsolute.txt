@@ -1,0 +1,14 @@
+C:\Users\Adnan2\Desktop\NewProject\OneDescover\OneDescover.Data\bin\Debug\OneDescover.Data.dll.config
+C:\Users\Adnan2\Desktop\NewProject\OneDescover\OneDescover.Data\bin\Debug\OneDescover.Data.dll
+C:\Users\Adnan2\Desktop\NewProject\OneDescover\OneDescover.Data\bin\Debug\OneDescover.Data.pdb
+C:\Users\Adnan2\Desktop\NewProject\OneDescover\OneDescover.Data\bin\Debug\EntityFramework.dll
+C:\Users\Adnan2\Desktop\NewProject\OneDescover\OneDescover.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adnan2\Desktop\NewProject\OneDescover\OneDescover.Data\bin\Debug\EntityFramework.xml
+C:\Users\Adnan2\Desktop\NewProject\OneDescover\OneDescover.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adnan2\Desktop\NewProject\OneDescover\OneDescover.Data\obj\Debug\OneDescover.Data.csprojResolveAssemblyReference.cache
+C:\Users\Adnan2\Desktop\NewProject\OneDescover\OneDescover.Data\obj\Debug\OneDescover.Data.dll
+C:\Users\Adnan2\Desktop\NewProject\OneDescover\OneDescover.Data\obj\Debug\OneDescover.Data.pdb
+C:\Users\Adnan2\Desktop\NewProject\OneDescover\OneDescover.Data\bin\Debug\OneDescover.Model.dll
+C:\Users\Adnan2\Desktop\NewProject\OneDescover\OneDescover.Data\bin\Debug\OneDescover.Model.pdb
+C:\Users\Adnan2\Desktop\NewProject\OneDescover\OneDescover.Data\obj\Debug\OneDescover.Data.Migrations.addUsertable.resources
+C:\Users\Adnan2\Desktop\NewProject\OneDescover\OneDescover.Data\obj\Debug\OneDescover.Data.csproj.GenerateResource.Cache
